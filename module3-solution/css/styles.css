@@ -1,3 +1,22 @@
-h1{
-	background-color: red;
+body{
+	font-size: 16px;
+	color: 000;
+	background-color: White;
 }
+
+nav.navbar{
+	/*background-color: GainsBoro;*/
+	border-bottom: 2px solid black;
+}
+
+.navbar-brand h1{
+	color: Black;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+
+/*.navbar-header button.navbar-toggle{
+	clear: both;
+}*/
