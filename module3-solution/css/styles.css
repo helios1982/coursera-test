@@ -5,7 +5,6 @@ body{
 }
 
 nav.navbar{
-	/*background-color: GainsBoro;*/
 	border-bottom: 2px solid black;
 }
 
@@ -17,6 +16,17 @@ nav.navbar{
 	text-decoration: none;
 }
 
-/*.navbar-header button.navbar-toggle{
-	clear: both;
-}*/
+#collapsable-nav a{
+	text-align: center;
+}
+
+.mnu-txt{
+	background-color: DarkGrey;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.mnu-txt h3{
+	text-align: center;
+}
